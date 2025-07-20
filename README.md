@@ -98,8 +98,8 @@
     <img src="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/snake-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/snake-ligt.svg">
     <img src="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/snake-dark.svg" alt="Snake contribution graph" />
   </picture>
 </div>
