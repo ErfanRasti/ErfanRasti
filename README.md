@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="center">✉️ Contact me</h2>
+<h2 align="center">✉️ Contact Me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/erfan-rasti-6a80561a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -39,14 +39,16 @@
 
 ###
 
-<h2 align="center">🛠 Language and tools</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="60" alt="Arch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="60" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
   <img width="12" />
