@@ -1,4 +1,3 @@
-
 <pre align="center">
 ███████╗██████╗░███████╗░█████╗░███╗░░██╗  ██████╗░░█████╗░░██████╗████████╗██╗
 ██╔════╝██╔══██╗██╔════╝██╔══██╗████╗░██║  ██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██║
@@ -8,22 +7,24 @@
 ╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚══╝  ╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░╚═╝
 </pre>
 
-<h1 align="center">Hey 👋, What's Up? I'm Erfan Rasti</h1>
+<h1 align="center">Hey there 👋, I'm Erfan Rasti</h1>
 <h3 align="center">Communication Engineer at Amirkabir University of Techonology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erfanrasti&label=Profile%20views&color=0e75b6&style=flat" alt="erfanrasti" /> </p>
 
-* 🔭 I’m currently working on DRL-based wireless communication systems.
-* 🌱 I’m currently learning 6G technologies & advanced signal processing.
-* 👯 I’m looking to collaborate on AI-driven wireless networks and mobile computing research.
-* 🤔 I’m looking for help with efficient deployment of real-time RL algorithms
-* 💬 Ask me about Arch Linux setups, DSP, and deep RL.
-* 📫 How to reach me: erfanrasty \[at] gamil.com
-* 😄 Pronouns: he/him
-* ⚡ Fun fact: I relax by watching elite chess game analysis and tweaking my Arch Linux setup.
+<h2 align="center">👨‍💻 About Me</h2>
+
+- 🔭 I’m currently working on DRL-based wireless communication systems.
+- 🌱 I’m currently learning 6G technologies & advanced signal processing.
+- 👯 I’m looking to collaborate on AI-driven wireless networks and mobile computing research.
+- 🤔 I’m looking for help with efficient deployment of real-time RL algorithms
+- 💬 Ask me about Arch Linux setups, DSP, and deep RL.
+- 📫 How to reach me: erfanrasty \[at] gamil.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I relax by watching elite chess game analysis and tweaking my Arch Linux setup.
 
 ###
 
-<h2 align="center">Contact me</h2>
+<h2 align="center">✉️ Contact me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/erfan-rasti-6a80561a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -37,7 +38,8 @@
 </div>
 
 ###
-<h2 align="center">Skills</h2>
+
+<h2 align="center">🛠 Language and tools</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -83,11 +85,14 @@
   <img src="https://skillicons.dev/icons?i=cmake" height="60" alt="cmake logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
+ <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="60" alt="lua logo"  />
 </div>
 
-
 ###
-<h2 align="center">Charts</h2>
+
+<h2 align="center">🔥 My Stats</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=erfanrasti&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -98,7 +103,8 @@
 </div>
 
 ###
-<h2 align="center">Contributions</h2>
+
+<h2 align="center">🎯 Contributions</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/pacman-contribution-graph-dark.svg">
