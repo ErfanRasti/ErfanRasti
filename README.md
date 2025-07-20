@@ -11,7 +11,7 @@
 <h3 align="center">Communication Engineer at Amirkabir University of Techonology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erfanrasti&label=Profile%20views&color=0e75b6&style=flat" alt="erfanrasti" /> </p>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=erfanrasti.erfanrasti&"  />
 </div>
 
 <h2 align="center">👨‍💻 About Me</h2>
