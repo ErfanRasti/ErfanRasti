@@ -10,6 +10,9 @@
 <h1 align="center">Hey there 👋, I'm Erfan Rasti</h1>
 <h3 align="center">Communication Engineer at Amirkabir University of Techonology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erfanrasti&label=Profile%20views&color=0e75b6&style=flat" alt="erfanrasti" /> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -42,55 +45,36 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py"  height="60" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=arch" height="60" alt="Arch logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="60" alt="matlab logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="60" alt="numpy logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
   <img src="https://skillicons.dev/icons?i=vim" height="60" alt="vim logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="60" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="60" alt="debian logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=anaconda" height="60" alt="anaconda logo"  />
+  <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo"  />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="sklearn logo"  />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubuntu logo"  />
+  <img src="https://skillicons.dev/icons?i=debian" height="60" alt="debian logo"  />
+  <img src="https://skillicons.dev/icons?i=gtk" height="60" alt="gtk logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="60" alt="digitalocean logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cmake" height="60" alt="cmake logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
- <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
   <img src="https://skillicons.dev/icons?i=lua" height="60" alt="lua logo"  />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="60" alt="numpy logo"  />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="60" alt="digitalocean logo"  />
 </div>
 
 ###
@@ -103,7 +87,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erfanrasti&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=erfanrasti&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erfanrasti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src=https://github-contributor-stats.vercel.app/api?username=erfanrasti&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)" height="300" alt="contributor stats"   />
+  <img src=https://github-contributor-stats.vercel.app/api?username=erfanrasti&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)" height="150" alt="contributor stats"   />
 </div>
 
 ###
@@ -115,5 +99,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/pacman-contribution-graph.svg">
 </picture>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
