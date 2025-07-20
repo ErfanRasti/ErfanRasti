@@ -11,7 +11,7 @@
 <h3 align="center">Communication Engineer at Amirkabir University of Techonology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erfanrasti&label=Profile%20views&color=0e75b6&style=flat" alt="erfanrasti" /> </p>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
 - 🔭 I’m currently working on DRL-based wireless communication systems.
 - 🌱 I’m currently learning 6G technologies & advanced signal processing.
@@ -24,8 +24,8 @@
 
 ###
 
-<h2 align="center">✉️ Contact Me</h2>
-<div align="center">
+<h2 align="left">✉️ Contact Me</h2>
+<div align="left">
   <a href="https://www.linkedin.com/in/erfan-rasti-6a80561a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="left">🛠 Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py"  height="60" alt="python logo"  />
@@ -76,7 +76,7 @@
 
 ###
 
-<h2 align="center">🔥 My Stats</h2>
+<h2 align="left">🔥 My Stats</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=erfanrasti&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -89,18 +89,18 @@
 
 ###
 
-<h2 align="center">🎯 Contributions</h2>
+<h2 align="left">🎯 Contributions</h2>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
-###
-<br clear="both">
+<!-- ### -->
+<!-- <br clear="both"> -->
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" />
   <img src="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/snake.svg" alt="Snake animation" />
 </div>
 
