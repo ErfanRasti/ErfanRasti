@@ -96,6 +96,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/pacman-contribution-graph.svg">
 </picture>
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/snake.svg" alt="Snake animation" />
 
 ###
