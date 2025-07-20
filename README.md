@@ -1,11 +1,13 @@
-<pre align="center">
+<!-- <pre align="center"> -->
+```
 ███████╗██████╗░███████╗░█████╗░███╗░░██╗  ██████╗░░█████╗░░██████╗████████╗██╗
 ██╔════╝██╔══██╗██╔════╝██╔══██╗████╗░██║  ██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██║
 █████╗░░██████╔╝█████╗░░███████║██╔██╗██║  ██████╔╝███████║╚█████╗░░░░██║░░░██║
 ██╔══╝░░██╔══██╗██╔══╝░░██╔══██║██║╚████║  ██╔══██╗██╔══██║░╚═══██╗░░░██║░░░██║
 ███████╗██║░░██║██║░░░░░██║░░██║██║░╚███║  ██║░░██║██║░░██║██████╔╝░░░██║░░░██║
 ╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚══╝  ╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░╚═╝
-</pre>
+```
+<!-- </pre> -->
 
 <h1 align="center">Hey there 👋, I'm Erfan Rasti</h1>
 <h3 align="center">Communication Engineer at Amirkabir University of Techonology</h3>
@@ -18,7 +20,7 @@
 - 👯 I’m looking to collaborate on AI-driven wireless networks and mobile computing research.
 - 🤔 I’m looking for help with efficient deployment of real-time RL algorithms
 - 💬 Ask me about Arch Linux setups, DSP, and deep RL.
-- 📫 How to reach me: erfanrasty \[at] gamil.com
+- 📫 How to reach me: [Mail me](mailto:erfanrasty@gmail.com).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I relax by watching elite chess game analysis and tweaking my Arch Linux setup.
 
@@ -63,6 +65,7 @@
   <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
+  <img src="https://skillicons.dev/icons?i=vim" height="60" alt="vim logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
   <img width="12" />
@@ -95,11 +98,12 @@
 <h2 align="center">🔥 My Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=erfanrasti&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=erfanrasti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erfanrasti&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=erfanrasti&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erfanrasti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=erfanrasti&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3"  alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=erfanrasti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1"  alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erfanrasti&radius=16&theme=tokyo-night&area=true&order=5"  alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=erfanrasti&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"  alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erfanrasti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2"  alt="languages graph"  />
+  <img src=https://github-contributor-stats.vercel.app/api?username=erfanrasti&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)" alt="contributor stats"   />
 </div>
 
 ###
