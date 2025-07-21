@@ -6,6 +6,9 @@
 ███████╗██║  ██║██║     ██║  ██║██║ ╚███║  ██║  ██║██║  ██║██████╔╝   ██║   ██║
 ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝    ╚═╝   ╚═╝
 </pre>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F73B49&center=true&multiline=true&random=true&width=435&lines=Erfan+Rasti" alt="Typing SVG" /></a>
+</div>
 
 <h1 align="center">Hey there 👋, I'm Erfan Rasti</h1>
 <h3 align="center">Communication Engineer at Amirkabir University of Techonology</h3>
@@ -57,21 +60,39 @@
   <img src="https://skillicons.dev/icons?i=vim" height="60" alt="vim logo"  />
   <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
   <img src="https://skillicons.dev/icons?i=anaconda" height="60" alt="anaconda logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="60" alt="jupyter logo"  />
   <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo"  />
   <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="sklearn logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="60" alt="numpy logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy" height="60" alt="scipy logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="60" alt="pandas logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=systemd" height="60" alt="systemd logo"  />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubuntu logo"  />
   <img src="https://skillicons.dev/icons?i=debian" height="60" alt="debian logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gnome" height="60" alt="gnome logo"  />
   <img src="https://skillicons.dev/icons?i=gtk" height="60" alt="gtk logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" height="60" alt="hyprland logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=cmake" height="60" alt="cmake logo"  />
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cuda" height="60" alt="cuda logo"  />
   <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
   <img src="https://skillicons.dev/icons?i=lua" height="60" alt="lua logo"  />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="60" alt="numpy logo"  />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="60" alt="digitalocean logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kitty" height="60" alt="kitty logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tmux" height="60" alt="tmux logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=digitalocean" height="60" alt="digitalocean logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="60" alt="chatgpt logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek" height="60" alt="deepseek logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" height="60" alt="github copilot logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=zen" height="60" alt="zen logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=word" height="60" alt="word logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="60" alt="excel logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint" height="60" alt="powerpoint logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=visio" height="60" alt="visio logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=acrobat" height="60" alt="acrobat logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=overleaf" height="60" alt="overleaf logo"  />
 </div>
 
 ###
