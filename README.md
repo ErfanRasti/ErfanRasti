@@ -79,7 +79,8 @@
 <h2 align="left">🔥 My Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=erfanrasti&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <!-- <img src="https://streak-stats.demolab.com/?user=erfanrasti&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+  <img src="https://streak-stats.demolab.com/?user=erfanrasti&locale=en&theme=tokyonight&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=erfanrasti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erfanrasti&locale=en&hide_title=false&langs_count=8&theme=tokyonight&hide_border=false&card_width=500&layout=compact&hide=jupyter%20notebook" height="150" alt="languages graph"  />
   <img src=https://github-contributor-stats.vercel.app/api?username=erfanrasti&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)" height="150" alt="contributor stats"   />
