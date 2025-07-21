@@ -29,13 +29,13 @@
 
 <h2 align="left">✉️ Contact Me</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/erfan-rasti-6a80561a1/" target="_blank">
+  <a href="https://www.linkedin.com/in/erfan-rasti-6a80561a1/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:erfanrasty@gmail.com" target="_blank">
+  <a href="mailto:erfanrasty@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCZYK7VZp23csTqB6ZgtPtOA?app=desktop" target="_blank">
+  <a href="https://www.youtube.com/channel/UCZYK7VZp23csTqB6ZgtPtOA?app=desktop">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
