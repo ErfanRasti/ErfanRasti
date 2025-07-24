@@ -67,6 +67,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="60" alt="numpy logo"  />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy" height="60" alt="scipy logo"  />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="60" alt="pandas logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="60" alt="matplotlib logo"  />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=systemd" height="60" alt="systemd logo"  />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubuntu logo"  />
   <img src="https://skillicons.dev/icons?i=debian" height="60" alt="debian logo"  />
