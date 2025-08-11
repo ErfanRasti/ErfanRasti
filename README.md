@@ -52,12 +52,13 @@
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" height="60" alt="hyprland logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
   <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo"  />
-  <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
   <img src="https://skillicons.dev/icons?i=vim" height="60" alt="vim logo"  />
   <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
   <img src="https://skillicons.dev/icons?i=anaconda" height="60" alt="anaconda logo"  />
@@ -73,7 +74,6 @@
   <img src="https://skillicons.dev/icons?i=debian" height="60" alt="debian logo"  />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gnome" height="60" alt="gnome logo"  />
   <img src="https://skillicons.dev/icons?i=gtk" height="60" alt="gtk logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" height="60" alt="hyprland logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
