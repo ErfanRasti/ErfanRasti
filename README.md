@@ -48,6 +48,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py"  height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=nix" height="60" alt="Nix logo"  />
   <img src="https://skillicons.dev/icons?i=arch" height="60" alt="Arch logo"  />
   <img src="https://skillicons.dev/icons?i=matlab" height="60" alt="matlab logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
