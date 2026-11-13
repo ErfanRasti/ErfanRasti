@@ -105,11 +105,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=erfanrasti&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&border=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=erfanrasti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erfanrasti&locale=en&hide_title=false&langs_count=8&theme=tokyonight&hide_border=false&card_width=500&layout=compact&hide=jupyter%20notebook" height="150" alt="languages graph"  />
-  <img src=https://github-contributor-stats.vercel.app/api?username=erfanrasti&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)" height="150" alt="contributor stats"   />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erfanrasti&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=erfanrasti&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="./profile/stats.svg" height="150" alt="stats graph"  />
+  <img src="./profile/top-langs.svg" height="150" alt="languages graph"  />
+  <img src="./profile/contributor-stats.svg" height="150" alt="contributor stats"   />
+  <img src="./profile/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <img src="./profile/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
