@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" height="60" alt="hyprland logo"  />
+  <img src="./assets/icons/hyprland.svg" height="60" alt="hyprland logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
@@ -64,39 +64,39 @@
   <img src="https://skillicons.dev/icons?i=vim" height="60" alt="vim logo"  />
   <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
   <img src="https://skillicons.dev/icons?i=anaconda" height="60" alt="anaconda logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="60" alt="jupyter logo"  />
+  <img src="./assets/icons/jupyter.svg" height="60" alt="jupyter logo"  />
   <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo"  />
   <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="sklearn logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="60" alt="numpy logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy" height="60" alt="scipy logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="60" alt="pandas logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="60" alt="matplotlib logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=systemd" height="60" alt="systemd logo"  />
+  <img src="./assets/icons/numpy.svg" height="60" alt="numpy logo"  />
+  <img src="./assets/icons/scipy.svg" height="60" alt="scipy logo"  />
+  <img src="./assets/icons/pandas.svg" height="60" alt="pandas logo"  />
+  <img src="./assets/icons/matplotlib.svg" height="60" alt="matplotlib logo"  />
+  <img src="./assets/icons/systemd.svg" height="60" alt="systemd logo"  />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubuntu logo"  />
   <img src="https://skillicons.dev/icons?i=debian" height="60" alt="debian logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gnome" height="60" alt="gnome logo"  />
+  <img src="./assets/icons/gnome.svg" height="60" alt="gnome logo"  />
   <img src="https://skillicons.dev/icons?i=gtk" height="60" alt="gtk logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=cmake" height="60" alt="cmake logo"  />
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cuda" height="60" alt="cuda logo"  />
+  <img src="./assets/icons/cuda.svg" height="60" alt="cuda logo"  />
   <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
   <img src="https://skillicons.dev/icons?i=lua" height="60" alt="lua logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kitty" height="60" alt="kitty logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tmux" height="60" alt="tmux logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=digitalocean" height="60" alt="digitalocean logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="60" alt="chatgpt logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek" height="60" alt="deepseek logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" height="60" alt="github copilot logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=zen" height="60" alt="zen logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=word" height="60" alt="word logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="60" alt="excel logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint" height="60" alt="powerpoint logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=visio" height="60" alt="visio logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=acrobat" height="60" alt="acrobat logo"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=overleaf" height="60" alt="overleaf logo"  />
+  <img src="./assets/icons/kitty.svg" height="60" alt="kitty logo"  />
+  <img src="./assets/icons/tmux.svg" height="60" alt="tmux logo"  />
+  <img src="./assets/icons/digitalocean.svg" height="60" alt="digitalocean logo"  />
+  <img src="./assets/icons/chatgpt.svg" height="60" alt="chatgpt logo"  />
+  <img src="./assets/icons/deepseek.svg" height="60" alt="deepseek logo"  />
+  <img src="./assets/icons/githubcopilot.svg" height="60" alt="github copilot logo"  />
+  <img src="./assets/icons/zen.svg" height="60" alt="zen logo"  />
+  <img src="./assets/icons/word.svg" height="60" alt="word logo"  />
+  <img src="./assets/icons/excel.svg" height="60" alt="excel logo"  />
+  <img src="./assets/icons/powerpoint.svg" height="60" alt="powerpoint logo"  />
+  <img src="./assets/icons/visio.svg" height="60" alt="visio logo"  />
+  <img src="./assets/icons/acrobat.svg" height="60" alt="acrobat logo"  />
+  <img src="./assets/icons/overleaf.svg" height="60" alt="overleaf logo"  />
 </div>
 
 ###
@@ -105,11 +105,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=erfanrasti&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&border=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=erfanrasti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erfanrasti&locale=en&hide_title=false&langs_count=8&theme=tokyonight&hide_border=false&card_width=500&layout=compact&hide=jupyter%20notebook" height="150" alt="languages graph"  />
-  <img src=https://github-contributor-stats.vercel.app/api?username=erfanrasti&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)" height="150" alt="contributor stats"   />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erfanrasti&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=erfanrasti&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="./profile/stats.svg" height="150" alt="stats graph"  />
+  <img src="./profile/top-langs.svg" height="150" alt="languages graph"  />
+  <img src="./profile/contributor-stats.svg" height="150" alt="contributor stats"   />
+  <img src="./profile/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <img src="./profile/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -125,7 +125,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/snake.svg">
-    <img src="snake.svg" alt="Snake graph" />
+    <img src="https://raw.githubusercontent.com/erfanrasti/erfanrasti/output/snake-dark.svg" alt="Snake graph" />
   </picture>
 </div>
 
